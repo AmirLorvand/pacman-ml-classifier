@@ -143,4 +143,4 @@ Possible improvements include:
 
 **Amir Lorvand**
 
-MSc Artificial Intelligence student at King’s College London with interests in machine learning, neural networks, AI systems, and decision-making.
+MSc Artificial Intelligence student at King’s College London 
